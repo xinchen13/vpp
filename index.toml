@@ -55,6 +55,14 @@ file = "config/ferritecore.mixin.properties"
 hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 
 [[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "1894a44b24cd0b253b13917ebbc3d5eed36042c2a2bda0691e846e8ffae2a8f1"
+
+[[files]]
 file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
@@ -193,8 +201,18 @@ hash = "189134fe48404ea4f716f6ee705d5af668a493264c1af07b02ce18113b346de9"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "94f000249d21c4fc3b7744f9579bb6ac0d48e6bf4860fad16f23c997950a47f3"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "47a38ead307c2d86ac06e12f70847dc0194da9014608d4ac7b4133ae6a5abdda"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "c3b8abec750268c238b08e41f81b69da524064284f17f63ef055a3bcf3bac4f9"
 metafile = true
 
 [[files]]
@@ -210,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "c75fefbf0abf36da4f2de6e7da8d6988e9bc2301d0ada850755c86c5f315fe8e"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "b0d82cb639999d5e286f95c50932eda4c8609abcd1d62a8037d4fc4f86320c16"
 metafile = true
 
 [[files]]

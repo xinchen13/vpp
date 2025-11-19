@@ -1,0 +1,74 @@
+{
+    "ModSettings": {
+        "highlight_foused_items": {
+            "value": false
+        },
+        "enable_profiles": {
+            "value": false
+        },
+        "enable_lock_slots": {
+            "value": false
+        },
+        "enable_lock_slots_per_server": false,
+        "enable_auto_refill": {
+            "value": false
+        },
+        "villager_trading_enable": {
+            "value": false
+        },
+        "enable_updates_check": false,
+        "highlight_clicking_slot": false,
+        "first_run": false
+    },
+    "GuiSettings": {
+        "continuous_crafting_saved_value": false
+    },
+    "AutoRefillSettings": {
+        "ignore_locked_slots": false,
+        "refill_armor": {
+            "value": false
+        },
+        "refill_before_tool_break": {
+            "value": false
+        },
+        "auto_refill_enable_per_slot_config": {
+            "value": false
+        },
+        "auto_refill_enable_indicator_icons": {
+            "value": false
+        },
+        "auto_refill_enable_horbar_indicator_icons": {
+            "value": false
+        }
+    },
+    "ScrollSettings": {
+        "scroll_auto_pickup_next_for_single": false
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "BUTTON_3"
+            }
+        },
+        "global_bookmark_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "local_bookmark_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "do_global_trade": {
+            "main": {
+                "keys": ""
+            }
+        },
+        "do_local_trade": {
+            "main": {
+                "keys": ""
+            }
+        }
+    }
+}
