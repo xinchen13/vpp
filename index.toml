@@ -5,16 +5,6 @@ file = "LICENSE"
 hash = "a28da45eb8939df440d892454ba2a213a3e83846079484e34b3da4bc89f54799"
 
 [[files]]
-file = "bliss-shader.pw.toml"
-hash = "756acba0fb870af603cae0a8d5f49118ca8e6f0a9d38ebd361fe43c187f7c2db"
-metafile = true
-
-[[files]]
-file = "complementary-unbound.pw.toml"
-hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
-metafile = true
-
-[[files]]
 file = "config/appleskin.json5"
 hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
 
@@ -291,4 +281,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
 hash = "702873e526e71f370d12145a660f6eefacb230323f7142664c79f218548e4024"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "756acba0fb870af603cae0a8d5f49118ca8e6f0a9d38ebd361fe43c187f7c2db"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
 metafile = true

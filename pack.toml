@@ -1,12 +1,12 @@
 name = "Vanilla Plus Plus"
 author = "xinchen"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "83d6a18d00b0d7bd325cb972d9cd36decaf82f2975d024e9b32be7f059f04d53"
+hash = "5f8d9ceb1a6639befee4a5d0e077362d9b0b0a413750a8251ee5c74a6f6bb12f"
 
 [versions]
 fabric = "0.17.3"
