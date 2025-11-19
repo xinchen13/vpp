@@ -1,0 +1,16 @@
+name = "Vanilla Plus Plus"
+author = "xinchen"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4a5d54c0058f935153dd68090533b83679389488d47aaeb51f2904c4e5da9f0f"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.21.10"
+
+[options]
+acceptable-game-versions = []

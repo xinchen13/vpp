@@ -1,0 +1,13 @@
+name = "Faithful 64x"
+filename = "Faithful 64x - September 2025 Release.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e4b269b8f5cdd229aacf8a181fc91d50240b5a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7049187
+project-id = 419139

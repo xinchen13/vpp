@@ -1,0 +1,13 @@
+name = "Peek"
+filename = "peek-fabric-1.21.10-1.4.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e2515ea6710926ee8f802e98d29537d013f2fed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7231683
+project-id = 693418
