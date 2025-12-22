@@ -22,7 +22,7 @@ hash = "52f394cd3754a29a6f236b1fe622bb430fa7e4632bce262eeb0333d71842bb52"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "5e9b0d3250a4169cbea8808987cba6323704d4b6816e4bb81aa0e1f26eb2d1cf"
+hash = "1b29100e87138d7206ab1f5dd1ef2a848866cb049c6b0a52b0b564ab4f5ab65c"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -42,7 +42,7 @@ hash = "5110d83fa12df053d48eb3bcfded9d174e617910ce3e6c72f01dfc248c4e6abb"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "5f992f93f0e4d20250d9a66f4e55f641658faf44f27bd44dabd3b69fdd2f13b0"
+hash = "4b834d625f5e90a872297c248ad92d09c53b60a0cc8b11849b1b82be173ce5d2"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -62,7 +62,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "da7142400570193e410ae6318c67ac142252f6791e97e244b35374ffeb0b8327"
+hash = "b41d2e62f0924e072a369d0fa956bd050afca80f16841d20ec5f042ac2ee53d5"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "816a274a51586b2a1e328b70fef8aba88c8e0c64205bebb2773cde8bc205f20f"
+hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6dbca2c20d66b076bb4e8959ea0e26887991acf48f785aae402e066d5e3eb6ea"
+hash = "c66e4b3576440113259b5bae8d0660b8e0023ce852156f27383f8651ecc4bfe3"
 metafile = true
 
 [[files]]
@@ -269,7 +269,7 @@ hash = "161a1829543297da76add04bf42c5116f2553d6ad5e2a6da6212b2068e38eee9"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
-hash = "4f3e46f03f3af082015953f22c6600fd20e464222a20655b6aa1009d6ba65cc2"
+hash = "26c0e4a143ee9c0aa5c257996a7efba141c30674f2b0209af5c263c36db555ea"
 metafile = true
 
 [[files]]

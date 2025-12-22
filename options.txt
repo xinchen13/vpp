@@ -63,7 +63,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:true
 narratorHotkey:true
-resourcePacks:["vanilla","file/EvenBetterEnchants_v2.1_1.21.5+.zip"]
+resourcePacks:["vanilla","file/EvenBetterEnchants_v3_1.21.5+.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
