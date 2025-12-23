@@ -9,10 +9,6 @@ file = "config/appleskin.json5"
 hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
 
 [[files]]
-file = "config/controlify.json"
-hash = "5dc4f29febdf22dd04f2c119f265f279d4f79bfaca4e75ea2b31dec95461b348"
-
-[[files]]
 file = "config/crash_assistant/config.toml"
 hash = "abcc4926046ab2e04dbe63af250b6cfa604cf7460593d0ae589ca09320725e35"
 
@@ -62,7 +58,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "b41d2e62f0924e072a369d0fa956bd050afca80f16841d20ec5f042ac2ee53d5"
+hash = "bcdad57b94a51caa3a31d81f1eaf8da7959ac790309c938adc57024c3dd8d2ca"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -174,6 +170,11 @@ hash = "de4779f316f62247e78c2594428a8ff5134bae55a2c329e1b6f7e853c2babb8a"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "b008f82e2e44de778ef082375e2f041ccffc17878e4c0ddca964f35629890952"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "1def4a57b3d83593ed3031ab014b570ad3df7312f513af1cde2c6d436e1f1724"
 metafile = true
@@ -195,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
+hash = "4851e08949034729ae5e108626ea4dea2221a66d6428167fc75e1ed59245bc05"
 metafile = true
 
 [[files]]
@@ -215,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "43ae42453ad9c79d9ab1158e13b3230f3dd5d43c6abc088f566038152af3347f"
+hash = "b7d33095f206cb34dc8cd3d5410a00597439a2fc793f4c158c7a2ecfc7e85e82"
 metafile = true
 
 [[files]]
@@ -255,17 +256,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c0a85192cfec296d8ab8690e91bfeb932efde590af289ec263616ed36543cee7"
+hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "6b2e6c4faa6fa928c5c5c582752b80401e418d4f897839b7d0338acc08e94803"
+hash = "692b7f775360faf75015ef40d93ed1992c29214dc9a7df60da88b4b7bdb101f3"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "161a1829543297da76add04bf42c5116f2553d6ad5e2a6da6212b2068e38eee9"
+hash = "c9cc84b9d3934f1f6e2658304c28bcea8f80b8924adc740ad8b918394b4246f6"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
