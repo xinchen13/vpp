@@ -74,7 +74,7 @@ hash = "a5c36f4ed48b1262f7f7d7be731c87c18aa6fdb79aaddb54568f9f8d526925c7"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "2896a630b74ed7fde61f9205456c8756f8bbf52d2d77ef1ba2618301d77756c5"
+hash = "c94f198c6ce5ccbe9e8eafb3e62b366294dd605cbff4b78e263ad729f0e4b179"
 
 [[files]]
 file = "config/jade/profiles/1/jade.json"
@@ -134,35 +134,35 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
-hash = "0268a7be76d396804e17e46b93509b7d396ec4f901f0a7d3c3c279835b4397f3"
+hash = "c2015acad049d4aa879dce8bd56dbbfcf7042835ee4810a79f24c4d6173a602d"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.fullmap.config"
-hash = "9418ff6d7c6a7b37ca57dcda0419c07ec66a52935f64ea651744b837e9ca329c"
+hash = "0009487a2336cd67fd8b1ead68941211398473df56b431d08aa35527a34a0977"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "0254e84fb571ab220ab2a556ad9b02510f2bb46f65eed345f83046d3c11585ea"
+hash = "aadf7664be2d176f913534516e809eaceefc469893813371ec6035f2f3cd8ada"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap2.config"
-hash = "71a52dc583e0c22d6d619391563a278d73463182c2857ae918b6f345970c2ce6"
+hash = "72f2a99309201c158e386e2d9b140d422854cd0410a2fa961daea736a42f488c"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.rendering.config"
-hash = "0014d73d55c3e4d56443d2bfad4d8be45d2076e630e2577234bd8552c196cc0c"
+hash = "59139373798af345188a9a11a0dd317ae39a5749d575cb0dbbfd481732c5caf7"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.topo.config"
-hash = "144eecc62052b43f777456f4b5d09f07660d0b0dbe7b143b9da8885668b65b7a"
+hash = "2f6e8125fa9f35e0c700d49c908e0d60216d6d1cced17701351a174995570535"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.waypoint.config"
-hash = "0b17b04381730ccd320499e3904d19dfc97fdbe9557074fd1d6e34f8485727fc"
+hash = "b531dddc06dcccca2741ffbea494fdf0525d67bde5a7e0d9d71c7468c5a1731a"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.webmap.config"
-hash = "268be342b6d44aa46322c65783928333dac467d4adea85823ec9472ee1c45078"
+hash = "17fbf319709adeec6b71ead4ed0a2fc37210795257ab370c251ec36893c2253c"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "9c1d3e062033b5f2e69afef4d9f272a628cf352865a372084ab4323e56786f67"
+hash = "33f7179dc7f07dfa514a8899076680c592b746e1027be4a0399db8ad24a67fc1"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"

@@ -47,7 +47,7 @@ invertXMouse:false
 invertYMouse:false
 realmsNotifications:false
 showSubtitles:false
-directionalAudio:false
+directionalAudio:true
 touchscreen:false
 bobView:true
 toggleCrouch:false
@@ -70,7 +70,7 @@ lang:zh_cn
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
-textBackgroundOpacity:0.5
+textBackgroundOpacity:0.5098591549295773
 backgroundForChatOnly:true
 hideServerAddress:false
 advancedItemTooltips:false
