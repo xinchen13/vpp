@@ -1,7 +1,7 @@
 # Vanilla Plus Plus (vpp) Modpack
 
 ## Overview
-A carefully curated modpack designed to enhance the vanilla Minecraft experience. It adds quality-of-life improvements, visual enhancements, and gameplay tweaks without altering the core vanilla mechanics.  
+A lightweight modpack designed to enhance the vanilla Minecraft experience. It focuses on quality-of-life improvements, visual enhancements, and minor gameplay tweaks without changing the core vanilla mechanics.
 
 ## Features
 - Supported Minecraft Version: **1.21.10**, **1.21.11**
