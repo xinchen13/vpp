@@ -1,4 +1,4 @@
-# Vanilla Plus Plus (vpp) Modpack
+# Vanilla Patchcraft Modpack
 
 ## Overview
 A lightweight modpack designed to enhance the vanilla Minecraft experience. It focuses on quality-of-life improvements, visual enhancements, and minor gameplay tweaks without changing the core vanilla mechanics.
