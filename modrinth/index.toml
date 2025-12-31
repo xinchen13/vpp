@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ae1a68177baa7b61dcdf0e52b6be9ec84c29a7e05ea7826df1b3d9ddf8caa9fc"
+hash = "46378a96dfb588feb3a76274ceb131cda7c27886c0445e8eee2b759bbe02bb61"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
