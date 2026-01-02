@@ -1,13 +1,13 @@
 name = "Squareful"
-filename = "Squareful方纹v26.0.1.zip"
+filename = "Squareful方纹v26.0.3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rq4lDGdf/versions/SgkCv96E/Squareful%E6%96%B9%E7%BA%B9v26.0.1.zip"
+url = "https://cdn.modrinth.com/data/rq4lDGdf/versions/MRrPergM/Squareful%E6%96%B9%E7%BA%B9v26.0.3.zip"
 hash-format = "sha512"
-hash = "82f38a368fb4cb86e51bb512f21d9f4430cf13f6b70e6e273a0f16393f7d07edab6ac2ab20766206308cda509702ddc9ae98d6f1fc36536c1dab579d92de58be"
+hash = "657f7f540f83b8ed83e0398949642d6e89964797c311c9ab4b5ba590916c2a14cb9da0a336ff088ab3380cea96628a7eca74e92791f7c058731ffeb29373d080"
 
 [update]
 [update.modrinth]
 mod-id = "rq4lDGdf"
-version = "SgkCv96E"
+version = "MRrPergM"
