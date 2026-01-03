@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "754b709ef984861d0db65e325077b5cac32721dddf2afb89103d3b290a813c2b"
+hash = "4523e060a74748ad226cb739d51a4710e4893d4d8385eb05c01de7898dd003a1"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f435f694a82d81457922e2e1f1d1717b782a1134d056198d9a3cbb323a5a2095"
+hash = "a08eacf3555a4e737cc719c755b79a73705431879820e824fd758a4a8008edef"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/xekr-square-pattern.pw.toml"
-hash = "1fe0ff906b2a061449e488f6bb26ddfc759aab28df31f9219da3ce6aa6ff2d57"
+hash = "0e23bf920aa4c5e0f2016e83ee633312b60a04073102a57b24fd3cc64e189979"
 metafile = true
 
 [[files]]

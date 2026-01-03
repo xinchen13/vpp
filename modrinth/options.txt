@@ -63,7 +63,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:true
 narratorHotkey:true
-resourcePacks:["vanilla","file/Squareful方纹v26.0.3.zip","file/XK redstone display 26.0.1.zip"]
+resourcePacks:["vanilla","file/Squareful方纹v26.0.4.zip","file/XK redstone display 26.0.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 chatVisibility:0
