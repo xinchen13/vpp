@@ -166,6 +166,16 @@ hash = "de4779f316f62247e78c2594428a8ff5134bae55a2c329e1b6f7e853c2babb8a"
 metafile = true
 
 [[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "a8321c6d297c9a266a82600942a2b329f374abb9f3fdd0810499a2f26a082b2d"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "a2157cb283825dc11dbef898000d47f36c70837e8c15552c5d52eeaf3be5f0c3"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "b008f82e2e44de778ef082375e2f041ccffc17878e4c0ddca964f35629890952"
 metafile = true
@@ -182,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "2e1dbd715bdbf7c5ccc0f540db953df2952045ebae46f1b5c81521261c97784d"
+hash = "311f19fbeed28d9217aac4c56d25dfe190f016983a008befaa8ff8a35bd92aa3"
 metafile = true
 
 [[files]]

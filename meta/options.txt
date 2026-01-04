@@ -63,7 +63,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:true
 narratorHotkey:true
-resourcePacks:["vanilla","file/Squareful方纹v26.0.4.zip","file/XK redstone display 26.0.1.zip"]
+resourcePacks:["vanilla","file/Squareful方纹v26.0.4.zip","file/XK redstone display 26.0.1.zip","continuity:glass_pane_culling_fix","continuity:default"]
 incompatibleResourcePacks:[]
 lastServer:
 chatVisibility:0
