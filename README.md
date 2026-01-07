@@ -36,7 +36,6 @@ A lightweight modpack designed to enhance the vanilla Minecraft experience. It f
 | Peek                    | Mod           | Preview container contents without opening 👀         |
 | Controlify              | Mod           | Improved controller support 🎮                        |
 | Mod Menu                | Mod           | In-game mod configuration menu ⚙️                     |
-| YACL                    | Mod           | Modern and unified config UI 🧩                       |
 | Crash Assistant         | Mod           | Helps diagnose crashes with readable reports 🛠️      |
 | No Chat Reports         | Mod           | Removes chat reporting system (client-side) 🚫        |
 

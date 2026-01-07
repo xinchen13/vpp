@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
+hash = "39b4f43a271700276ff1ae632cf05f90b85f79670d955b50ced036e363a0efe9"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "7bed38b83c963cfa00e11054c8324cc95594a00f8613d306bd9cf12b26a34552"
+hash = "21caf1cc09d510a23284e704cb5211408085d5964e5d6ca129fc0dc175c8fb79"
 metafile = true
 
 [[files]]
